@@ -40,7 +40,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contactos
 
 <p align="center">
 <a href="https://linkedin.com/in/lucasmartincosta"><img src="https://img.shields.io/badge/-Lucas%20Martin%20Costa-0077B5?style=flat&logo=linkedIn&logoColor=white"/></a>
