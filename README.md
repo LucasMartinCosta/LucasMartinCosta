@@ -4,11 +4,11 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-💡 &nbsp;Soy un apacionado por la tecnologia, el diseño y el comportamiento humano.\
-🎓 &nbsp;Estoy terminando la Tecnicatura Universitaria en Programacion y estoy buscando mi primer experiencia laboral en tecnologia.\
-🌱 &nbsp;Tengo un interes especial en entender como el ser humano se relaciona con la tecnologia.\
-✍️ &nbsp;En mi tiempo libre me gusta hacer deporte, cocinar y sacar fotos.\
-✉️ &nbsp;Me podes contactar via Email a lucassmartin.costa@gmail.com.\
+💡 &nbsp;Soy un apacionado por la tecnología, el diseño y el comportamiento humano.\
+🎓 &nbsp;Estoy terminando la Tecnicatura Universitaria en Programación y estoy buscando mi primer experiencia laboral en tecnología.\
+🌱 &nbsp;Tengo un interés especial en entender como el ser humano se relaciona con la tecnología.\
+📷 &nbsp;En mi tiempo libre me gusta hacer deporte, cocinar y sacar fotos.\
+✉️ &nbsp;Me podes contactar via Email a lucassmartin.costa@gmail.com
 
 <!--
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
