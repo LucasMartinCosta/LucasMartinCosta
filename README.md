@@ -43,7 +43,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/lucasmartincosta"><img src="https://img.shields.io/badge/-Lucas%20Martin%20Costa-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/lucasmartincosta"><img src="https://img.shields.io/badge/-Lucas%20Martin%20Costa-0077B5?style=flat&logo=linkedIn&logoColor=white"/></a>
 <a href="mailto:lucassmartin.costa@gmail.com"><img src="https://img.shields.io/badge/-lucassmartin.costa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
